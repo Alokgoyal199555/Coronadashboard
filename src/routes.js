@@ -39,7 +39,7 @@ import RTLPage from "views/RTLPage/RTLPage.js";
 const dashboardRoutes = [
   {
     path: "/dashboard",
-    name: " Corona Dashboard",
+    name: " Corona Dashboard Created by Alok Goyal  ",
     rtlName: "لوحة القيادة",
     icon: Dashboard,
     component: DashboardPage,

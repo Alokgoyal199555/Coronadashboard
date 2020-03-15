@@ -49,8 +49,8 @@ export default function AdminNavbarLinks() {
   };
   return (
     <div>
-     <p>Powered by Genrosys Technologies Private Limited
-</p>
+     {/* <p>Powered by Genrosys Technologies Private Limited
+</p> */}
     
         {/* <Dashboard className={classes.icons} /> */}
        
